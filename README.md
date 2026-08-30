@@ -91,7 +91,8 @@ This repository contains data cleaning, preprocessing, exploratory analysis, and
 
 #### Chart 1: Average Delivery Time by Traffic Density
 
-![Average Delivery Time by Traffic Density](https://github.com/user-attachments/assets/81cafb00-04b9-46a0-a231-5f62c80a85b4)
+<img width="784" height="483" alt="download" src="https://github.com/user-attachments/assets/42977a9b-d126-4aab-bc2a-641fabbed5e9" />
+
 **Key Observations:**
 - **Jam / Congested Traffic** results in the highest average delivery time (**31.44 minutes**).
 - Delivery times decrease progressively as traffic density eases: **High (27.41 mins)**, **Medium (26.93 mins)**, and **Low (21.50 mins)**.
@@ -99,7 +100,7 @@ This repository contains data cleaning, preprocessing, exploratory analysis, and
 
 #### Chart 2: Delivery Distance vs. Delivery Time
 
-![Delivery Distance vs. Delivery Time](https://github.com/user-attachments/assets/093cbd13-d8cd-45de-ad44-fccbf0a1e03a)
+<img width="884" height="584" alt="download (1)" src="https://github.com/user-attachments/assets/fb48bff8-5a8c-4a15-af80-c5f50b052495" />
 
 **Key Observations:**
 - There is a positive correlation between delivery distance and delivery time (as distance increases, delivery time tends to increase).
