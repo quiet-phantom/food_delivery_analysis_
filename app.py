@@ -9,7 +9,7 @@ st.title("🍔 Food Delivery Dataset Analysis")
 # Data Load
 @st.cache_data
 def load_data():
-    df = pd.read_csv('/content/food_delivery_dataset.csv')
+    df = pd.read_csv('food_delivery_dataset.csv')
     return df
 
 try:
